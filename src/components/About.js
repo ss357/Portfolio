@@ -17,7 +17,12 @@ const About = () => {
               <p>Hi. I'm Suman Atta, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia corrupti iure fuga quia repudiandae temporibus. Incidunt necessitatibus labore optio alias distinctio vero, veniam architecto ut, dicta illum dolorem aliquam voluptatibus!</p>  
+              <p>Passionate React enthusiast with a strong desire to contribute to
+dynamic software projects. Currently expanding expertise into full-
+stack development with Next.js. Demonstrated proficiency through
+diverse project portfolio. Seeking an opportunity to apply and
+enhance my skills as a Next.js apprentice in a collaborative team
+environment.</p>  
             </div>
           </div>
       </div>
