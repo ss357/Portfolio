@@ -150,7 +150,7 @@ const Navbar = () => {
         <li className="flex items-center justify-between font-extralight text-cyan-300">
           {" "}
           <a
-            href="https://drive.google.com/file/d/1Xho49PAvvJgRt9_AMOoAmfOYr83b5zis/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Yxtjh8s5WOwupD_EpVLEoP76DjT_Wz63/view?usp=sharing"
             target="_blank"
           >
             Click to Download My resume ⬇️
