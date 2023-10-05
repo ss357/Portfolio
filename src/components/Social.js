@@ -38,7 +38,7 @@ const Social = () => {
 
         <li className="bg-red-800 flex items-center justify-between h-[40px] w-full ml-[-105px] hover:ml-0 duration-300 ">
           <a
-            href="mailto:sumanatta634@gmail.com"
+            href="https://drive.google.com/file/d/1Yxtjh8s5WOwupD_EpVLEoP76DjT_Wz63/view?usp=sharing"
             target="_blank"
             className="flex w-full items-center justify-between"
           >
