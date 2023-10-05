@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  
+  @layer base{
+
+    body{
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      background-color: #0a192f; 
+      scroll-behavior: smooth;
+      scrollbar-width: thin;
+      scrollbar-color: transparent transparent;
+    
+
+    
+      
+    }
+    li{
+      @apply px-4 cursor-pointer
+     
+    }
+
+    *{
+      ::-webkit-scrollbar {
+        width: 0.3rem; /* Set a width for the scrollbar track */
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background-color: rgb(6, 167, 167); /* Hide the thumb */
+        border-radius: 15px ;
+      }
+    }
+  }
