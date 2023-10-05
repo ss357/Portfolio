@@ -22,10 +22,12 @@ const Home = ({id}) => {
         I'm a React JS Developer
       </h2>
       <p className="text-[#8892b0] py-4 max-w-[700px]">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam, et
-        reprehenderit. Ipsa eius dicta soluta exercitationem vero similique
-        temporibus! Ut quae rerum ipsum maxime nam doloremque autem velit
-        excepturi suscipit.
+       Passionate React enthusiast with a strong desire to contribute to
+dynamic software projects. Currently expanding expertise into full-
+stack development with Next.js. Demonstrated proficiency through
+diverse project portfolio. Seeking an opportunity to apply and
+enhance my skills as a Next.js apprentice in a collaborative team
+environment.
       </p>
       <div className=''>
         <button className="border-2 group px-6 py-3 my-2 flex items-center hover:bg-cyan-600 hover:border-cyan-600">
