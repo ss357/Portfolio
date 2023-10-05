@@ -36,13 +36,13 @@ const Work = () => {
               <span className="text-2xl font-bold text-cyan-500 tracking-wider flex justify-center pt-3">
                 React JS Application
               </span>
-              <div className="pt-8 text-center">
-                <a href="/">
+              <div className="pt-8 text-center" >
+                <a href="https://portfolio-ivory-ten-46.vercel.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-gray-900 text-cyan-400  font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/ss357/Portfolio" target= "_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-gray-900 text-cyan-400 font-bold text-lg">
                     Code
                   </button>
