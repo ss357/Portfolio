@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       screens: {
-        'custom': '1060px', // You can replace 'custom' with your desired breakpoint name
+        'custom': '1090px', // You can replace 'custom' with your desired breakpoint name
       },
     },
   },
